@@ -1,0 +1,14 @@
+{
+  "name": "neww",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass --watch --no-source-map scss/main.scss scss/main.css"
+  },
+  "author": "dikshya",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.55.0"
+  }
+}
